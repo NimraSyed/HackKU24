@@ -28,7 +28,7 @@ export PALM_API_KEY=your-api-key
 ```bash
 set PALM_API_KEY=your-api-key
 ```
-#### 3.Launch the App
+### 3. Launch the App
 ```bash
 streamlit run app.py
 ```
