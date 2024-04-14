@@ -16,7 +16,7 @@ pip install streamlit google.generativeai ics
 ## Getting Started
 
 Get set up with these quick steps:
-###1. Create a project streamlit.io
+### 1. Create a project streamlit.io
 ### 2. API Key Configuration
 - Obtain an API key from Google.
 - Set it as an environment variable:
@@ -29,7 +29,6 @@ export PALM_API_KEY=your-api-key
 set PALM_API_KEY=your-api-key
 ```
 #### 3.Launch the App
-
 ```bash
 streamlit run app.py
 ```
